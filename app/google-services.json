@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12138576802",
+    "project_id": "phanhongha-2fdcf",
+    "storage_bucket": "phanhongha-2fdcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12138576802:android:0a9f5b5664a500036d90fb",
+        "android_client_info": {
+          "package_name": "com.example.a19497931_phanhongha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12138576802-8qcsh1pkcdou2otu3io9sd5gpp9jfef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFgBYw6fvRiBcGzqikeTYqrLy-rdWKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12138576802-8qcsh1pkcdou2otu3io9sd5gpp9jfef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
